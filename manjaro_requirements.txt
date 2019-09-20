@@ -1,0 +1,7 @@
+ansible 2.8.4-1
+docker 1:19.03.1-2
+docker-compose 1.24.1-1
+python-docker 4.0.2-1
+python-docker-pycreds 0.4.0-1
+python-dockerpty 0.4.1-4
+python-pip 19.0.3-1

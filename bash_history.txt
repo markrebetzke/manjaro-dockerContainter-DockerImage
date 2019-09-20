@@ -1,0 +1,202 @@
+    1  sudo pacman -S alsa
+    2  pactl set-sink-volume @DEFAULT_SINK@ 150%
+    3  pactl set-sink-volume @DEFAULT_SINK@ 200%
+    4  pactl set-sink-volume @DEFAULT_SINK@ 120%
+    5  mhwd
+    6  vi /etc/default/grub
+    7  sudo pacman -S vim
+    8  vim /etc/default/grub
+    9  sudo vim /etc/default/grub
+   10  sudo update-grub
+   11  sudo vim /etc/default/grub
+   12  sudo update-grub
+   13  sudo pacman -S caffiene
+   14  sudo pacman -S amphetamine
+   15  sudo pacman -Syu
+   16  vim /etc/pacman.d/mirrorlist 
+   17  vi /etc/pacman.d/mirrorlist 
+   18  sudo vi /etc/pacman.d/mirrorlist 
+   19  sudo pacman -Syu
+   20  sudo pacman -Syu
+   21  history
+   22  sudo pacman -S docker.io
+   23  sudo pacman -S docker
+   24  sudo pacman -S ansible
+   25  ansible-playbook
+   26  ls
+   27  ls
+   28  mkdir docker_test
+   29  cd docker_test/
+   30  ls
+   31  vim main.yml
+   32  sudo pacman -S yakuake
+   33  sudo pacman -S xterm
+   34  ls
+   35  pwd
+   36  vim main.yml
+   37  ansible-playbook --connection=local 127.0.0.1 main.yml
+   38  ansible-playbook --connection=local 127.0.0.1, main.yml
+   39  ansible-playbook --connection=local -i 127.0.0.1, main.yml
+   40  vim main.yml
+   41  ansible-playbook --connection=local -i 127.0.0.1, main.yml
+   42  vim main.yml
+   43  ansible-playbook --connection=local -i 127.0.0.1, main.yml
+   44  pip
+   45  vim main.yml
+   46  vim main.yml
+   47  ansible-playbook --connection=local -i 127.0.0.1, main.yml
+   48  vim main.yml
+   49  ansible-playbook --connection=local -i 127.0.0.1, main.yml
+   50  vim main.yml
+   51  ansible-playbook --connection=local -i 127.0.0.1, main.yml
+   52  vim main.yml
+   53  ansible-playbook --connection=local -i 127.0.0.1, main.yml
+   54  vim main.yml
+   55  ansible-playbook --connection=local -i 127.0.0.1, main.yml
+   56  pip freeze
+   57  vim main.yml
+   58  ansible-playbook --connection=local -i 127.0.0.1, main.yml
+   59  vim main.yml
+   60  ansible-playbook --connection=local -i 127.0.0.1, main.yml
+   61  vim main.yml
+   62  ansible-playbook --connection=local -i 127.0.0.1, main.yml
+   63  vim main.yml
+   64  ansible-playbook --connection=local -i 127.0.0.1, main.yml
+   65  systemctl status docker
+   66  systemctl start docker
+   67  systemctl status docker
+   68  ansible-playbook --connection=local -i 127.0.0.1, main.yml
+   69  sudo docker ps
+   70  ansible-playbook --connection=local -i 127.0.0.1, main.yml
+   71  pip install -U requests==2.5.3
+   72  pip install --usre -U requests==2.5.3
+   73  pip install --user -U requests==2.5.3
+   74  ansible-playbook --connection=local -i 127.0.0.1, main.yml
+   75  sudo docker ps
+   76  pip install --user docker
+   77  pip uninstall docker
+   78  ansible-playbook --connection=local -i 127.0.0.1, main.yml
+   79  vim main.yml
+   80  ansible-playbook --connection=local -i 127.0.0.1, main.yml
+   81  vim main.yml
+   82  ansible-playbook --connection=local -i 127.0.0.1, main.yml
+   83  pip list
+   84  pip uninstall requests
+   85  ansible-playbook --connection=local -i 127.0.0.1, main.yml
+   86  vim main.yml
+   87  ansible-playbook --connection=local -i 127.0.0.1, main.yml
+   88  vim main.yml
+   89  ansible-playbook --connection=local -i 127.0.0.1, main.yml
+   90  pip show docker
+   91  pip list
+   92  pip show docker
+   93  vim main.yml
+   94  which python
+   95  python --version
+   96  vim main.yml
+   97  python --version
+   98  ansible-playbook --connection=local -i 127.0.0.1, main.yml
+   99  ansible-playbook --connection=local -i 127.0.0.1, main.yml
+  100  docker ps
+  101  vim main.yml
+  102  docker ps
+  103  ansible-playbook --connection=local -i 127.0.0.1, main.yml
+  104  sudo -i
+  105  exit
+  106  cd docker_test/
+  107  ansible-playbook --connection=local -i 127.0.0.1, main.yml
+  108  vim main.yml
+  109  ansible-playbook --connection=local -i 127.0.0.1, main.yml
+  110  vim main.yml
+  111  ansible-playbook --connection=local -i 127.0.0.1, main.yml
+  112  vim main.yml
+  113  ansible-playbook --connection=local -i 127.0.0.1, main.yml
+  114  vim main.yml
+  115  ansible-playbook --connection=local -i 127.0.0.1, main.yml
+  116  vim main.yml
+  117  ansible-playbook --connection=local -i 127.0.0.1, main.yml
+  118  vim main.yml
+  119  ansible-playbook --connection=local --ask-become-pass -i 127.0.0.1, main.yml
+  120  vim main.yml
+  121  ansible-playbook --connection=local --ask-become-pass -i 127.0.0.1, main.yml
+  122  vim main.yml
+  123  ansible-playbook --connection=local --ask-become-pass -i 127.0.0.1, main.yml
+  124  vim main.yml
+  125  ansible-playbook --connection=local --ask-become-pass -i 127.0.0.1, main.yml
+  126  vim main.yml
+  127  ansible-playbook --connection=local --ask-become-pass -i 127.0.0.1, main.yml
+  128  vim main.yml
+  129  vim main.yml
+  130  vim main.yml
+  131  ansible-playbook --connection=local --ask-become-pass -i 127.0.0.1, main.yml
+  132  vim main.yml
+  133  vim main.yml
+  134  vim main.yml
+  135  ansible-playbook --connection=local --ask-become-pass -i 127.0.0.1, main.yml
+  136  sudo docker ps -a
+  137  sudo docker ps
+  138  vim main.yml
+  139  sudo docker ps
+  140  ansible-playbook --connection=local --ask-become-pass -i 127.0.0.1, main.yml
+  141  sudo docker ps
+  142  vim main.yml
+  143  sudo docker ps
+  144  ansible-playbook --connection=local --ask-become-pass -i 127.0.0.1, main.yml
+  145  sudo docker ps -a
+  146  vim Dockerfile
+  147  docker build -t test /
+  148  sudo docker build -t test .
+  149  vim main.yml
+  150  sudo docker build -t test .
+  151  ansible-playbook --connection=local --ask-become-pass -i 127.0.0.1, main.yml
+  152  vim main.yml
+  153  ansible-playbook --connection=local --ask-become-pass -i 127.0.0.1, main.yml
+  154  ls
+  155  vim Dockerfile 
+  156  ansible-playbook --connection=local --ask-become-pass -i 127.0.0.1, main.yml
+  157  sudo docker iamge
+  158  sudo docker image
+  159  sudo docker image list
+  160  vim main.yml
+  161  ansible-playbook --connection=local --ask-become-pass -i 127.0.0.1, main.yml
+  162  sudo docker ps
+  163  sudo pacman -S git
+  164  ls
+  165  git init
+  166  git commit -m "first commit"
+  167  git config --global user.email "you@example.com"
+  168  git config --global user.email "markrebetzke@gmail.com"
+  169  git config --global user.name "markrebetzke@gmail.com"
+  170  git config --global user.name "Mark Rebetzke"
+  171  git status
+  172  git init
+  173  git add *
+  174  git commit -m "first commit"
+  175  git remote add origin https://github.com/markrebetzke/manjaro-dockerContainter-DockerImage.git
+  176  git push -u origin master
+  177  history
+  178  vim readme.MD
+  179  git add readme.MD 
+  180  git commit -m "Adding Readme"
+  181  git push
+  182  git push
+  183  ansible-playbook --connection=local --ask-become-pass -i 127.0.0.1, main.yml
+  184  pip freze
+  185  pip freeze >> pip_requirements.txt
+  186  git add pip_requirements.txt 
+  187  git push
+  188  git commit -m "Adding PIP requirements"
+  189  git push
+  190  git --help
+  191  sudo pacman -Q
+  192  sudo pacman -Q | grep -i docker & python
+  193  sudo pacman -Q | grep -i (docker|python)
+  194  sudo pacman -Q | grep (docker|python)
+  195  sudo pacman -Q | grep -i 'docker'\'python'
+  196  sudo pacman -Q | grep -i 'docker|python'
+  197  sudo pacman -Q | grep -i -e docker -e python
+  198  history
+  199  sudo pacman -Q | grep -i -e ansible -e docker -e python
+  200  sudo pacman -Q | grep -i -e ansible -e docker -e python-pip
+  201  sudo pacman -Q | grep -i -e ansible -e docker -e python-pip >> manjaro_requirements.txt
+  202  history >> bash_history.txt
