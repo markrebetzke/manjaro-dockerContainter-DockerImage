@@ -1,0 +1,38 @@
+---
+- hosts: all
+  tasks:
+  - name: Install python-pip
+    pacman:
+       name:
+          - python-pip
+          - docker
+          - docker-compose
+       state: present
+
+  - pip:
+      name: docker
+
+  - name: Running the container
+    become: true
+    become_method: sudo
+    docker_container:
+       #api_version:  "1.4" 
+       name: catfucker
+       interactive: true
+       image: ubuntu:latest
+       state: started
+
+  - name: Running the container
+    become: true
+    become_method: sudo
+    docker_image:
+       name: test
+       build:
+         path: .
+       source: build
+
+  - name: Check if container is running
+    shell: sudo docker ps
+    register: output
+
+  - debug: var=output.stdout_lines
