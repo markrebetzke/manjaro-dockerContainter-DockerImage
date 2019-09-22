@@ -17,7 +17,7 @@
     become_method: sudo
     docker_container:
        #api_version:  "1.4" 
-       name: catfucker
+       name: cat-non-fcker
        interactive: true
        image: ubuntu:latest
        state: started
